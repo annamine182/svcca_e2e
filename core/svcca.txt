@@ -1,0 +1,228 @@
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 1 : Similarity 0.999998171622997
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 2 : Similarity 0.9999974491850055
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 3 : Similarity 0.9999965184953589
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 4 : Similarity 0.9999952355146154
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 5 : Similarity 0.9931000561410072
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 6 : Similarity 0.9948139888086749
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 7 : Similarity 0.99595420018297
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 8 : Similarity 0.9967423934739608
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 9 : Similarity 0.9976402161324306
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 10 : Similarity 0.9981470876088403
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 11 : Similarity 0.9986575620732552
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 12 : Similarity 0.998823839980198
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 13 : Similarity 0.9987681934722509
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 14 : Similarity 0.999149153865177
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 15 : Similarity 0.9995167820411539
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 16 : Similarity 0.999692571902207
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 17 : Similarity 0.9997911857452908
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 18 : Similarity 0.9998445472279452
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 19 : Similarity 0.9999044981471337
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 20 : Similarity 0.9999237130622743
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 21 : Similarity 0.9999635002160654
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 22 : Similarity 0.999975212229179
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 23 : Similarity 0.9254356747779945
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 24 : Similarity 0.9999881875444131
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 25 : Similarity 0.9999974306127756
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 26 : Similarity 0.9999993301396715
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 27 : Similarity 0.999997177116986
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 28 : Similarity 0.9999971002944168
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 29 : Similarity 0.9999970039381326
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 30 : Similarity 0.9553031931475703
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 31 : Similarity 0.9683563408164407
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 32 : Similarity 0.9755785789992526
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 33 : Similarity 0.9808653703387828
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 34 : Similarity 0.9848683310270402
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 35 : Similarity 0.988096527820117
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 36 : Similarity 0.9907912515719632
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 37 : Similarity 0.9999970039381326
+adding eps to diagonal and taking inverse
+taking square root
+dot products...
+trying to take final svd
+computed everything!
+Layer encoder.conv_layers_before.convolutions.0.weight epoch 38 : Similarity 0.9999952355146154

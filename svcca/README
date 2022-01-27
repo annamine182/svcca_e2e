@@ -1,0 +1,28 @@
+## SOFTWARE
+#/share/mini1/sw/std/python/anaconda3-2019.07/v3.7/
+#conda activate asr_e2e
+
+## MODIFICATIONS FROM 2020.12.30
+#split run script into stages
+#made input dataset 1 file from swbd1 and 1 file from eval2000
+#modified model scripts in espresso framework to extract layerwise activation outputs
+#created scripts to perform cca and svd on extracted outputs
+
+
+## TO RUN
+
+submit -g1 -o -l gputype='GeForceGTXTITANX|GeForceGTX1080Ti' -eo script.log ./run.sh
+
+
+
+
+
+
+
+https://www.nature.com/articles/s41467-020-19632-w
+https://www.google.com/search?channel=fs&client=ubuntu&q=SplineCNN%3A+Fast+Geometric+Deep+Learning+with+Continuous+B-Spline+Kernels
+https://papers.nips.cc/paper/2018/hash/f5f8590cd58a54e94377e6ae2eded4d9-Abstract.html
+
+
+
+#
