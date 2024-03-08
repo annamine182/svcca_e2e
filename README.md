@@ -1,6 +1,6 @@
 # svcca_e2e
 
-svcca pipeline for e2e asr models - for statistical analysis of output activations
+svcca pipeline for e2e asr models built with FAIRSEQ framework - for statistical analysis of output activations
 
 Published at ICASSP 2021
 
